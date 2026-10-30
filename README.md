@@ -8,6 +8,7 @@ Projeto final da cadeira de Banco de dados Avançado realizada no curso de Ciên
 - [Redis](https://redis.io/)
 - [NodeJs](https://nodejs.org/)
     - [Bull](https://github.com/OptimalBits/bull)
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
     - [AWS.SES](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html#constructor-property)
 
 ## Como executar
